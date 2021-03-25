@@ -1,7 +1,8 @@
 ### Salve👋
 
 ### :flushed: Estou no 6 semestre do curso Ciência da Computação 
-### :see_no_evil:	Tenho o conhecimento: - C/C++
+### :see_no_evil:	Tenho o conhecimento: 
+                                        - C/C++
 ###                                     - Orientação a Objetos
 ###                                     - React Native
 ###                                     - JavaScript
