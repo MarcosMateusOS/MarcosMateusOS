@@ -1,6 +1,6 @@
 ### Salve👋
 
-### :flushed: Estou no 6 semestre do curso Ciência da Computação
+### :flushed: Estou no 6 semestre do curso Ciência da Computação na UFJF
 ### :see_no_evil:	Tenho o conhecimento: - C/C++
 ###                                     - Orientação a Objetos
 ###                                     - React Native
