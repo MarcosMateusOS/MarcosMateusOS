@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+![Marcos Mateus's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMateusOS&show_icons=true&theme=radical)
 <!--
 **MarcosMateusOS/MarcosMateusOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Marcos Mateus's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMateusOS&show_icons=true&theme=radical)
+
 ### Salve :star_struck:!
 
 ### :flushed: Estou no 5 semestre do curso Ciência da Computação
