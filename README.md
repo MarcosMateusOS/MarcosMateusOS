@@ -21,15 +21,15 @@
 ### Salve :star_struck:!
 
 ### Estou no 6 semestre do curso Ciência da Computação
-### Tenho o conhecimento: - C/C++
-###                                     - Orientação a Objetos
-###                                     - React
+### Tenho o conhecimento: - C/C++ <img src="https://icon-library.com/images/c-programming-icon/c-programming-icon-14.jpg" alt="rails" width="30" height="30"><
+###                                     - Orientação a Objetos 
+###                                     - React 
 ###                                     - React Native
 ###                                     - Java Script
 ###                                     - Node.js
 ###                                     - FireBase
 ###                                     - MongoDB
 ###                                     - Modelagem de Dados
-### Participo de dois projetos na minha faculdade voltados para o desenvolvimento de aplicativos em React Native, utilizando como Banco de Dados NoSQl e spring como back-end, mas iremos refatorar esse back-end para Node.js.
+### Bolsista na UFJF como Mobile Developer
 ### Sempre buscando melhorar.
 
