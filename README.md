@@ -2,7 +2,7 @@
 
 ### Estou no 6 semestre do curso Ciência da Computação 
 ### Tenho o conhecimento: 
-###                                     - C/C++
+###                                     - C/C++ 
 ###                                     - Orientação a Objetos
 ###                                     - React Native | React
 ###                                     - JavaScript
@@ -21,7 +21,8 @@
 ### Salve :star_struck:!
 
 ### Estou no 6 semestre do curso Ciência da Computação
-### Tenho o conhecimento: - C/C++       <img src="https://icon-library.com/images/c-programming-icon/c-programming-icon-14.jpg" alt="rails" width="30" height="30"/></mig>
+### Tenho o conhecimento: - C/C++        
+<img src="https://icon-library.com/images/c-programming-icon/c-programming-icon-14.jpg" alt="rails" width="30" height="30"></img>
 ###                                     - Orientação a Objetos 
 ###                                     - React 
 ###                                     - React Native
