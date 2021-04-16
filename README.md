@@ -21,10 +21,13 @@
 ### Estou no 6 semestre do curso Ciência da Computação
 ### Tenho o conhecimento: - C/C++
 ###                                     - Orientação a Objetos
+###                                     - React
 ###                                     - React Native
 ###                                     - Java Script
-###                                     - Node JS
+###                                     - Node.js
 ###                                     - FireBase
+###                                     - MongoDB
+###                                     - Modelagem de Dados
 ### Participo de dois projetos na minha faculdade voltados para o desenvolvimento de aplicativos em React Native, utilizando como Banco de Dados NoSQl e spring como back-end, mas iremos refatorar esse back-end para Node.js.
 ### Sempre buscando melhorar.
 
