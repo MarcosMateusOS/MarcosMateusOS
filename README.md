@@ -25,5 +25,6 @@
 ###                                     - Java Script
 ###                                     - Node JS
 ###                                     - FireBase
-### Participo de dois projetos na minha faculdade voltados para o desenvolvimento de aplicativos em React Native, utilizando como Banco de Dados NoSQl e spring como back-end, mas iremos refatorar esse back-end para Node JS.
+### Participo de dois projetos na minha faculdade voltados para o desenvolvimento de aplicativos em React Native, utilizando como Banco de Dados NoSQl e spring como back-end, mas iremos refatorar esse back-end para Node.js.
+### Sempre buscando melhorar.
 
