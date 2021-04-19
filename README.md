@@ -11,16 +11,19 @@
 </p>
 ### Conhecimentos:
 
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
+ 
+ <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="C++" style="vertical-align:top; margin:6px;width="30" height="30"">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:4px;width="30" height="30"">
- 
+</p> 
+<p align="center"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="vertical-align:top; margin:100px;width="30" height="30"">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:10px;width="30" height="30"">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="C++" style="vertical-align:top; margin:6px;width="30" height="30"">
+   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
+</p>
 
 ### Mais sobre mim:
 - Bolsista na UFJF como Mobile Developer.
