@@ -1,16 +1,23 @@
 ### Salve👋
 
 ### Estou no 6 semestre do curso Ciência da Computação 
-### Tenho o conhecimento: 
-###                                     - C/C++ 
-###                                     - Orientação a Objetos
-###                                     - React Native | React
-###                                     - JavaScript
-###                                     - Node.js
-###                                     - MongoDB
-###                                     - FireBase
-###                                     - Modelagem de Dados
-###  Participo de dois projetos na minha faculdade voltados para o desenvolvimento de aplicativos em React Native, utilizando como Banco de Dados NoSQl e spring como back-end, mas iremos refatorar esse back-end para Node JS.
+### Tenho o conhecimento:               
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="C++" style="vertical-align:top; margin:6px;width="30" height="30"">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:4px;width="30" height="30"">
+ 
+
+### Mais sobre mim:
+- Bolsista na UFJF como Mobile Developer.
+- Possuo conhecimento em POO e Modelagem de Sistemas.
+- UML
+- Focado em ampliar meu conhecimento em React/React Native e Node.js.
 
 
 ![Marcos Mateus's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMateusOS&show_icons=true&theme=radical)
