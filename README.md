@@ -9,7 +9,8 @@
     <br><br>
  
 </p>
-### Conhecimentos:           
+### Conhecimentos:
+
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
@@ -27,9 +28,9 @@
 - UML
 - Focado em ampliar meu conhecimento em React/React Native e Node.js.
 
-<p align="center">
+
 ![Marcos Mateus's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMateusOS&show_icons=true&theme=radical)
-</p>
+
 <!--
 **MarcosMateusOS/MarcosMateusOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
