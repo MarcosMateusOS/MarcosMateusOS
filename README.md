@@ -1,7 +1,15 @@
-### Salve👋
+<p align="center">
 
-### Estou no 6 semestre do curso Ciência da Computação 
-### Tenho o conhecimento:               
+  <samp>
+    Olá :wave:
+    <br><br>
+    Desenvolvedor do Pro-Inclusão(Aplicativo voltado para ajudar moradores de rua) e PROEX(Aplicativo de mapeamento das ações de extensão dos campi da UFJF em Juiz de Fora e Governador Valadares) ambos projetos da UFJF.:iphone:
+    <br><br>
+   Cursando o sexto período de Ciência da Computação :grin:
+    <br><br>
+ 
+</p>
+            
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
