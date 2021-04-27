@@ -30,7 +30,8 @@
 - Possuo conhecimento em POO e Modelagem de Sistemas.
 - UML
 - Focado em ampliar meu conhecimento em React/React Native e Node.js.
-
+- Atualmente sou responsável pelo refatoramento total do front-end do Pro-Inclusão. Irei ir postando no repósitorio as atualizações do aplicativo.
+ 
 
 ![Marcos Mateus's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMateusOS&show_icons=true&theme=radical)
 
