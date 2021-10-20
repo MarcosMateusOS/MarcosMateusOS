@@ -3,7 +3,7 @@
   <samp>
     Olá :wave:
     <br><br>
-    Desenvolvedor do Pro-Inclusão(Aplicativo voltado para ajudar moradores de rua) e PROEX(Aplicativo de mapeamento das ações de extensão dos campi da UFJF em Juiz de Fora e Governador Valadares) ambos projetos da UFJF.:iphone:
+    Desenvolvedor Junior Nodejs na TeamSoft e PROEX(Aplicativo de mapeamento das ações de extensão dos campi da UFJF em Juiz de Fora e Governador Valadares) ambos projetos da UFJF.:iphone:
     <br><br>
    Cursando o sexto período de Ciência da Computação :grin:
     <br><br>
@@ -26,12 +26,13 @@
 </p>
 
 ### Mais sobre mim:
+- Adonisjs e Express
+- Banco de Dados
 - Bolsista na UFJF como Mobile Developer.
 - Possuo conhecimento em POO e Modelagem de Sistemas.
 - UML
 - Focado em ampliar meu conhecimento em React/React Native e Node.js.
-- Atualmente sou responsável pelo refatoramento total do front-end do Pro-Inclusão. Irei ir postando no repósitorio as atualizações do aplicativo.
- 
+
 
 ![Marcos Mateus's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMateusOS&show_icons=true&theme=radical)
 
