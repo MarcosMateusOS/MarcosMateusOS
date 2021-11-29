@@ -16,21 +16,21 @@
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/ytc/AKedOLT_BA-BCJdGQeEMwv882b7S4e9CGm25ksyJJoUm=s900-c-k-c0x00ffffff-no-rj"/>](https://teamsoft.com.br/)
 
 **Bolsista** \
-[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) • Full-time \
+[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) \
 Languages & Technologies:  `JavaScript/Typescript`, `Nodejs`, `React-Native`,`SQL`, `Firebase`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEVFOIVYXK0IQ/company-logo_200_200/0/1576084127236?e=2159024400&v=beta&t=kBRrdgJIwjcI668_0q9clkOTMTFJ86tbAQWlqihXkXs"/>](https://teamsoft.com.br/)
 
 **Estagiário** \
-[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) • Full-time \
+[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) \
 Languages & Technologies:  `JavaScript/Typescript`, `Nodejs`, `Adonisjs`,`SQL`, `Firebase`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEVFOIVYXK0IQ/company-logo_200_200/0/1576084127236?e=2159024400&v=beta&t=kBRrdgJIwjcI668_0q9clkOTMTFJ86tbAQWlqihXkXs"/>](https://teamsoft.com.br/)
 
 **Developer JR** \
-[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) • Full-time \
+[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) \
 Languages & Technologies:  `JavaScript/Typescript`, `Nodejs`, `Adonisjs`,`SQL`, `Firebase`\
 <br/>
 
