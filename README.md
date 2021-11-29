@@ -5,7 +5,7 @@
     <br><br>
     Desenvolvedor Junior Nodejs na TeamSoft e PROEX(Aplicativo de mapeamento das ações de extensão dos campi da UFJF em Juiz de Fora e Governador Valadares.:iphone:
     <br><br>
-   Cursando o sexto período de Ciência da Computação :grin:
+   Cursando o setimo período de Ciência da Computação :grin:
     <br><br>
  
 </p>
