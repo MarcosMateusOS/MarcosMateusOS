@@ -3,35 +3,64 @@
   <samp>
     Olá :wave:
     <br><br>
-    Desenvolvedor Junior Nodejs na TeamSoft e PROEX(Aplicativo de mapeamento das ações de extensão dos campi da UFJF em Juiz de Fora e Governador Valadares) ambos projetos da UFJF.:iphone:
+    Desenvolvedor Junior Nodejs na TeamSoft e PROEX(Aplicativo de mapeamento das ações de extensão dos campi da UFJF em Juiz de Fora e Governador Valadares.:iphone:
     <br><br>
    Cursando o sexto período de Ciência da Computação :grin:
     <br><br>
  
 </p>
-### Conhecimentos:
+<p> Minhas Experiências: </p>
 
  
- <p align="center">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-</p> 
-<p align="center"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" style="vertical-align:top; margin:100px;width="30" height="30"">
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:10px;width="30" height="30"">
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="C++" style="vertical-align:top; margin:6px;width="30" height="30"">
-   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" style="vertical-align:top; margin:6px;width="30" height="30"">
-</p>
 
-### Mais sobre mim:
-- Adonisjs e Express
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/ytc/AKedOLT_BA-BCJdGQeEMwv882b7S4e9CGm25ksyJJoUm=s900-c-k-c0x00ffffff-no-rj"/>](https://teamsoft.com.br/)
+
+**Bolsista** \
+[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) • Full-time \
+Languages & Technologies:  `JavaScript/Typescript`, `Nodejs`, `React-Native`,`SQL`, `Firebase`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEVFOIVYXK0IQ/company-logo_200_200/0/1576084127236?e=2159024400&v=beta&t=kBRrdgJIwjcI668_0q9clkOTMTFJ86tbAQWlqihXkXs"/>](https://teamsoft.com.br/)
+
+**Estagiário** \
+[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) • Full-time \
+Languages & Technologies:  `JavaScript/Typescript`, `Nodejs`, `Adonisjs`,`SQL`, `Firebase`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEVFOIVYXK0IQ/company-logo_200_200/0/1576084127236?e=2159024400&v=beta&t=kBRrdgJIwjcI668_0q9clkOTMTFJ86tbAQWlqihXkXs"/>](https://teamsoft.com.br/)
+
+**Developer JR** \
+[**TeamSoft Tecnologia e Sistemas**](https://teamsoft.com.br/) • Full-time \
+Languages & Technologies:  `JavaScript/Typescript`, `Nodejs`, `Adonisjs`,`SQL`, `Firebase`\
+<br/>
+
+<p> Minhas Skills: <p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+	
+### Conhecimentos adquiridos na faculdade:
 - Banco de Dados
 - Bolsista na UFJF como Mobile Developer.
-- Possuo conhecimento em POO e Modelagem de Sistemas.
+- Possuo conhecimento em POO 
+- Modelagem de Sistemas.
 - UML
-- Focado em ampliar meu conhecimento em React/React Native e Node.js.
+- Estrura de Dados.
+- Circuitos Digitais.
+- Grafos.
+
+
+
+
 
 
 ![Marcos Mateus's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMateusOS&show_icons=true&theme=radical)
