@@ -1,7 +1,6 @@
 # Olá! Eu sou o Marcos Santos 👋  
 
-## Sobre mim 🚀  
-Sou um Desenvolvedor Full Stack com mais de 4 anos de experiência, especializado em desenvolvimento backend com **JavaScript, TypeScript e Node.js**. Tenho grande interesse em arquitetura escalável, microsserviços e otimização de sistemas.  
+## Sobre mim 🚀    
 
 💡 Apaixonado por resolver problemas complexos e otimizar desempenho.  
 🏗️ Experiência com arquitetura de software, comunicação entre serviços e escalabilidade.  
